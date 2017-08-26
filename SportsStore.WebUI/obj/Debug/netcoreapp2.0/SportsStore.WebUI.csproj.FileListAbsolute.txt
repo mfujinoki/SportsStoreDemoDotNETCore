@@ -1,0 +1,10 @@
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/bin/Debug/netcoreapp2.0/SportsStore.WebUI.deps.json
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/bin/Debug/netcoreapp2.0/SportsStore.WebUI.runtimeconfig.json
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/bin/Debug/netcoreapp2.0/SportsStore.WebUI.runtimeconfig.dev.json
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/bin/Debug/netcoreapp2.0/SportsStore.WebUI.dll
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/bin/Debug/netcoreapp2.0/SportsStore.WebUI.pdb
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/obj/Debug/netcoreapp2.0/SportsStore.WebUI.csproj.CoreCompileInputs.cache
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/obj/Debug/netcoreapp2.0/SportsStore.WebUI.AssemblyInfoInputs.cache
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/obj/Debug/netcoreapp2.0/SportsStore.WebUI.AssemblyInfo.cs
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/obj/Debug/netcoreapp2.0/SportsStore.WebUI.dll
+/Users/mfujinoki/Projects/SportsStore/SportsStore.WebUI/obj/Debug/netcoreapp2.0/SportsStore.WebUI.pdb

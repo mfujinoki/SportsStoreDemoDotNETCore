@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/SportsStore.UnitTests/SportsStore.UnitTests.csproj"
+                "${workspaceRoot}/SportsStore.WebUI/SportsStore.WebUI.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

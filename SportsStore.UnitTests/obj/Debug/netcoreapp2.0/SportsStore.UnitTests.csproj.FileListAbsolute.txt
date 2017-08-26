@@ -1,0 +1,13 @@
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/bin/Debug/netcoreapp2.0/SportsStore.UnitTests.deps.json
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/bin/Debug/netcoreapp2.0/SportsStore.UnitTests.runtimeconfig.json
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/bin/Debug/netcoreapp2.0/SportsStore.UnitTests.runtimeconfig.dev.json
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/bin/Debug/netcoreapp2.0/SportsStore.UnitTests.dll
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/bin/Debug/netcoreapp2.0/SportsStore.UnitTests.pdb
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/obj/Debug/netcoreapp2.0/SportsStore.UnitTests.csproj.CoreCompileInputs.cache
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/obj/Debug/netcoreapp2.0/SportsStore.UnitTests.AssemblyInfoInputs.cache
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/obj/Debug/netcoreapp2.0/SportsStore.UnitTests.AssemblyInfo.cs
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/obj/Debug/netcoreapp2.0/SportsStore.UnitTests.dll
+/Users/mfujinoki/Projects/SportsStore/SportsStore.UnitTests/obj/Debug/netcoreapp2.0/SportsStore.UnitTests.pdb
